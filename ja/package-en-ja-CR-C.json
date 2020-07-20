@@ -1,0 +1,23 @@
+{
+  "name": "",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "",
+    "url": "https://github.com/appium/sample-code.git"
+  },
+  "keywords": [
+    "",
+    ""
+  ],
+  "author": "",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/appium/sample-code/issues"
+  },
+  "homepage": "https://github.com/appium/sample-code"
+}
